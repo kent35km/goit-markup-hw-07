@@ -1,0 +1,28 @@
+.logo {
+    padding-top: 24px;
+    padding-bottom: 25px;
+    margin-right: 93px;
+
+    font-family: $font-logo;
+
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    color: var(--accent-color);
+
+    &__second-part {
+        color: var(--black-color);
+    }
+
+    &__second-part--white {
+        color: var(--btn-white-color);
+        }
+}
+
+.page-footer__logo {
+    margin: 0;
+    padding: 0;
+}
+
+
+
